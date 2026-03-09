@@ -1,5 +1,5 @@
 # REPLICATION-ON-COMPUSORY-LICENCING
-C'est noté ! Voici une version sans tableau, utilisant uniquement des listes à puces pour que tu puisses copier-coller le code Markdown directement dans ton fichier README.md sur GitHub sans soucis de formatage.
+
 🧪 The Great Patent Heist: Boosting US Innovation
 Replicating Moser & Voena (2012): Compulsory Licensing & The Trading with the Enemy Act
 
